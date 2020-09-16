@@ -57,8 +57,8 @@ possibleCraftNames =
 //ART PARAMETERS & WEAPON NAMES
 
 //Cloaking Device
-//weapon1 = "gcloak"
-//weaponHardpoints1 = "hp01" "hp02" "hp03"
+weapon1 = "gccloak"
+weaponHardpoints1 = "hp01" "hp02" "hp03"
 
 //Hardpoints to hit for various systems and other locations.
 enginesTargetHardpoints = "hp01" "hp02" "hp03" "hp04" "hp05"
