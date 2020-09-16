@@ -1,0 +1,14 @@
+#include "photon.odf"
+
+//Name of the ODF file for the ordinance for this weapon
+ordName = "cplaso"
+
+//Display name for this weapon
+wpnName = "Plasma Bank"
+
+//Time Delay between shots
+shotDelay = 1.0f
+
+//Sound which is played when the weapon fires
+fireSound = "porwea.wav"
+
