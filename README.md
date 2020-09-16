@@ -19,3 +19,4 @@ Bugs fixed:
 - Cardassian sensor station uses Klingon cloak detection technology
 - Cardassian Brinok, Galor, and Keldon all use the same plasma torpedoes
 - Repair ships on high autonomy do not get nearly close enough to repair things
+- "Technology required" tooltips preface all objects with "GUI_CP_OBJ_INTENT"
