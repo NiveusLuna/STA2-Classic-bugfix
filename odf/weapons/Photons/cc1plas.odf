@@ -1,7 +1,7 @@
 #include "photon.odf"
 
 //Name of the ODF file for the ordinance for this weapon
-ordName = "cplaso"
+ordName = "cc1plaso"
 
 //Display name for this weapon
 wpnName = "Plasma Bank"
