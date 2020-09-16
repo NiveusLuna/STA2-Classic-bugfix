@@ -85,6 +85,7 @@ String_Table_Entry translations[MAX_STRINGS] =
 	"GUI_CP_BIOMATTER_RES",		"bio-matter",
 	"GUI_CP_CREW_RES",			"crew",
 	"GUI_CP_REQUIRE",			"needs:",
+	"GUI_CP_OBJ_INTENT",		"",
 
 // Control Panel Button Tooltip and Verbose Tooltips.
 	"GUI_CP_MOVE_TOOLTIP",		"Move",
