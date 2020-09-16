@@ -54,7 +54,7 @@ intrinsicValue = 0.05f
 //ART PARAMETERS & WEAPON NAMES
 
 // Detect Cloak
-weapon1 = "gdetectk"
+weapon1 = "gdetectc"
 weaponHardpoints1 = "hp01" "hp02" "hp03" "hp04" "hp05" "hp06" "hp07" "hp08" "hp09" "hp10"
 
 // Hardpoints to hit for various systems and other locations.
